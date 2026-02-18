@@ -1,4 +1,4 @@
-# 🫁 End-to-End Chest Disease Classification using AI
+# 🫁 Chest Disease Classification using AI
 
 ## 📌 Project Overview
 This project is an AI-powered web application that analyzes chest X-ray images and predicts whether the lungs are Normal or affected by Adenocarcinoma Cancer using deep learning techniques.
